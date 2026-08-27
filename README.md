@@ -1,2 +1,3 @@
 # frontend-learning
-Learning frontend development by practicing concepts, building small things, and keeping track of what I learn.
+
+I'm using this repository to document what I learn as I improve my frontend development skills.
