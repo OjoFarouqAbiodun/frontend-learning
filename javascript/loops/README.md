@@ -11,3 +11,5 @@ Things I learnt:
 - array[i] → access the current array item
 - array.length → determine how many items to loop through
 - A variable like total can accumulate values during a loop.
+- What forEach() does is that it takes items from the array one after the other.
+- What the parameter inside the callback represents each item.
